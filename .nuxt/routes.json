@@ -1,0 +1,16 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/home/ikki/Development/vuejs/nuxtfood/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_cc55ac50"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/ikki/Development/vuejs/nuxtfood/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_8ce5f6c6"
+  }
+]
