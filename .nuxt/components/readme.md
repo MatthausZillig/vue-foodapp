@@ -6,5 +6,7 @@ You can directly use them in pages and other components without the need to impo
 
 **Tip:** If a component is conditionally rendered with `v-if` and is big, it is better to use `Lazy` or `lazy-` prefix to lazy load.
 
+- `<AppHeader>` | `<app-header>` (components/AppHeader.vue)
+- `<AppRestaurantInfo>` | `<app-restaurant-info>` (components/AppRestaurantInfo.vue)
 - `<FooterApp>` | `<footer-app>` (components/FooterApp.vue)
 - `<MenuApp>` | `<menu-app>` (components/MenuApp.vue)

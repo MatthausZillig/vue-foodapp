@@ -1,3 +1,5 @@
+export { default as AppHeader } from '../../components/AppHeader.vue'
+export { default as AppRestaurantInfo } from '../../components/AppRestaurantInfo.vue'
 export { default as FooterApp } from '../../components/FooterApp.vue'
 export { default as MenuApp } from '../../components/MenuApp.vue'
 
