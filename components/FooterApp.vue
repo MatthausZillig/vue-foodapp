@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <nuxt-link to="/about">about</nuxt-link>
-  </div>
+  <footer>
+    <p>Copyright info goes here</p>
+  </footer>
 </template>
 
 <script>

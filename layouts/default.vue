@@ -4,9 +4,7 @@
       <MenuApp />
       <Nuxt />
     </div>
-    <div class="footer">
-      <FooterApp />
-    </div>
+    <FooterApp />
   </div>
 </template>
 

@@ -1,10 +1,10 @@
 [
   {
-    "name": "about",
-    "path": "/about",
-    "component": "/home/ikki/Development/vuejs/nuxtfood/pages/about.vue",
-    "chunkName": "pages/about",
-    "_name": "_cc55ac50"
+    "name": "restaurants",
+    "path": "/restaurants",
+    "component": "/home/ikki/Development/vuejs/nuxtfood/pages/restaurants.vue",
+    "chunkName": "pages/restaurants",
+    "_name": "_36e8b73e"
   },
   {
     "name": "index",
