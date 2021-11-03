@@ -7,6 +7,13 @@
     "_name": "_36e8b73e"
   },
   {
+    "name": "items-id",
+    "path": "/items/:id?",
+    "component": "/home/ikki/Development/vuejs/nuxtfood/pages/items/_id.vue",
+    "chunkName": "pages/items/_id",
+    "_name": "_7ed3acb6"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/home/ikki/Development/vuejs/nuxtfood/pages/index.vue",
