@@ -5,6 +5,9 @@
   "AppRestaurantInfo": {
     "description": "Auto imported from components/AppRestaurantInfo.vue"
   },
+  "AppSelect": {
+    "description": "Auto imported from components/AppSelect.vue"
+  },
   "FooterApp": {
     "description": "Auto imported from components/FooterApp.vue"
   },

@@ -8,5 +8,6 @@ You can directly use them in pages and other components without the need to impo
 
 - `<AppHeader>` | `<app-header>` (components/AppHeader.vue)
 - `<AppRestaurantInfo>` | `<app-restaurant-info>` (components/AppRestaurantInfo.vue)
+- `<AppSelect>` | `<app-select>` (components/AppSelect.vue)
 - `<FooterApp>` | `<footer-app>` (components/FooterApp.vue)
 - `<MenuApp>` | `<menu-app>` (components/MenuApp.vue)
