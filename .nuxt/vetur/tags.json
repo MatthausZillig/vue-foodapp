@@ -8,6 +8,9 @@
   "AppSelect": {
     "description": "Auto imported from components/AppSelect.vue"
   },
+  "AppToast": {
+    "description": "Auto imported from components/AppToast.vue"
+  },
   "FooterApp": {
     "description": "Auto imported from components/FooterApp.vue"
   },

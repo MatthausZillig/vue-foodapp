@@ -1,5 +1,12 @@
 [
   {
+    "name": "cart",
+    "path": "/cart",
+    "component": "/home/ikki/Development/vuejs/nuxtfood/pages/cart.vue",
+    "chunkName": "pages/cart",
+    "_name": "_b677adb6"
+  },
+  {
     "name": "restaurants",
     "path": "/restaurants",
     "component": "/home/ikki/Development/vuejs/nuxtfood/pages/restaurants.vue",
