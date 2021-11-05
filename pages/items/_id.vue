@@ -94,6 +94,7 @@ export default {
           }
         }
       }
+      console.log(result);
       return result;
     },
     combinedPrice() {
@@ -107,7 +108,7 @@ export default {
         item: this.currentItem.item,
         count: this.count,
         options: this.itemOptions,
-        addons: this.itemAddons,
+        addOns: this.itemAddons,
         combinedPrice: this.combinedPrice,
       };
       this.cartSubmitted = true;
