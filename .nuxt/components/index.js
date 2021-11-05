@@ -1,4 +1,5 @@
 export { default as AppHeader } from '../../components/AppHeader.vue'
+export { default as AppLogo } from '../../components/AppLogo.vue'
 export { default as AppRestaurantInfo } from '../../components/AppRestaurantInfo.vue'
 export { default as AppSelect } from '../../components/AppSelect.vue'
 export { default as AppToast } from '../../components/AppToast.vue'

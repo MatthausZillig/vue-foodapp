@@ -2,6 +2,9 @@
   "AppHeader": {
     "description": "Auto imported from components/AppHeader.vue"
   },
+  "AppLogo": {
+    "description": "Auto imported from components/AppLogo.vue"
+  },
   "AppRestaurantInfo": {
     "description": "Auto imported from components/AppRestaurantInfo.vue"
   },
